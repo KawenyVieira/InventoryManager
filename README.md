@@ -142,11 +142,11 @@ Durante o desenvolvimento deste projeto foram aplicados conceitos de:
 
 ## API Documentation
 
-![Swagger Overview](docs/images/swagger-overview.png)
+![Swagger Overview](docs/images/swaggerProduct.png)
 
 ## Example Request
 
-![Get Product](docs/images/get-product-example.png)
+![Get Product](docs/images/SwaggerGetParameter.png)
 
 ## Project Structure
 
